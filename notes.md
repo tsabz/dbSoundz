@@ -18,3 +18,9 @@ Package manager for Python. a pip file is where all your packages go.
 
 ## What is DJANGO ADMIN?
 Djangos command-line utility for administrative tasks
+
+## What is a Python Serializer? 
+Object Oriented Python is the process of translating data into a format in order to be stored or transmitted.  Another way of explaining is Djangos serialization framework provides a mechanism for translation Django models into other formats
+
+# What is a Viewset
+is like a "Controller" 

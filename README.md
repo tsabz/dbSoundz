@@ -10,3 +10,11 @@ https://www.figma.com/file/nx0H7fQBr1BvCwrdgVQBWV/dbSoundz?node-id=0%3A1
 
 ## Trello Board
 https://trello.com/b/aUtFXTZp/dbsoundz 
+
+
+
+## Sites
+
+
+
+https://docs.python.org/3/tutorial/venv.html
